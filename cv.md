@@ -2,6 +2,7 @@
  _NOVICE DEVELOPER and VEGAN CHIEF_
 ___
 ![my_photo](img/git.JPG) 
+![family](img/family.JPG)
 ___
 ###  Contact & Social Media
 * \+995591218825
